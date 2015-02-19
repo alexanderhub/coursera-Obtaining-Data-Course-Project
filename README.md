@@ -1,2 +1,5 @@
-# coursera-Obtaining-Data-Course-Project
-Coursera's Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Project
+
+Alexander Dolinin
+
+This is a repo for the course project of the Johns Hopkins Getting and Cleaning Data Course.
